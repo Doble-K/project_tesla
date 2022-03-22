@@ -8,7 +8,7 @@ Only CoinEx Exchange Now (More than 150 whit CCXT)
 
 Requeriments:
 - Python 3.8.X
-- CCXT API (https://github.com/ccxt/ccxt)
+- CCXT API [ccxt](https://github.com/ccxt/ccxt)
 
 TODO:
 * Auto Buy - Sell Orders
