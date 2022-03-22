@@ -1,4 +1,3 @@
-## project_tesla
 # Crypto Trading Bot
 
 For Now only pull Coin Pair price and volume from specific exchange
@@ -9,9 +8,9 @@ Only CoinEx Exchange Now (More than 150 whit CCXT)
 
 Requeriments:
 - Python 3.8.X
-- https://github.com/ccxt/ccxt
+- CCXT API (https://github.com/ccxt/ccxt)
 
 TODO:
-[ ] Auto Buy - Sell Orders
-[ ] DeFi
-[ ] Smart Contracts integration
+* Auto Buy - Sell Orders
+* DeFi
+* Smart Contracts integration
